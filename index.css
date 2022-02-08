@@ -1,0 +1,13 @@
+
+#increment-btn{
+	background-color: red;
+	padding: 10px;
+	border-radius: 3px;
+}
+button{
+	color: white;
+}
+h1,h2{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
